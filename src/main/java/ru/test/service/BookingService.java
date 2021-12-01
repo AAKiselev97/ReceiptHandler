@@ -10,7 +10,6 @@ import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 import ru.test.exception.CustomException;
 import ru.test.model.BookingPrintDto;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
